@@ -149,18 +149,6 @@ namespace Exercise4
             }
             Console.WriteLine(pangram ? "This is a pangram" : "This is not a pangram");
         }
-
-        /*
-    1.Write a C# function to find the largest number of the three numbers.
-    -Improve the next version that accept at least 1 parameter. (varArg)
-2.Write a C# function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument.
-3.Write a C# function that takes a number as a parameter and checks whether the number is prime or not.
-4.Write a C# function to print
-    1.all prime numbers that less than a number (enter prompt keyboard).
-    2.the first N prime numbers
-5.Write a C# function to check whether a number is "Perfect" or not. Then print all perfect number that less than 1000.
-6.Write a C# function to check whether a string is a pangram or not.
-(Note: Pangrams are words or sentences containing every letter of the alphabet at least once. For example: "The quick brown fox jumps over the lazy dog"
-         */
     }
 }
+
